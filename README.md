@@ -1,1 +1,5 @@
 # Trial-1--2.5D-blend-Game
+Supposed theme:
+The Chosen Wanderer game: Enter a whimsical world on the brink of chaos, combining exploration and action. The gameplay loop involves exploring dynamically generated environments with traps and hidden treasures, learning enemy attack patterns and weakpoints, and collecting resources for crafting. The 2.5D visual perspective allows for vibrant detailed locations that encourage exploration. Movement through these hand-crafted and procedurally generated maps includes abilities like a grappling hook to access hidden ledges and zip through levels. Battles include large encounters and also arena based challenge rooms. The light-hearted art style combined with the real-time action, delivers a fun experience. It focuses on empowering characters and their unique abilities by mastering the environment and encounters. 
+
+ "The Chosen Wanderer" focusing on core movement mechanics, a simple procedurally generated environment, and basic combat. This version will demonstrate the 2.5D perspective and core gameplay loop.
